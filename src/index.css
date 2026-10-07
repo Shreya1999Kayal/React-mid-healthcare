@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+
+@theme {
+  --color-medical-primary: #16c7d9;
+  --color-medical-primary-dark: #08afc3;
+
+  --color-medical-navy: #30345f;
+
+  --color-medical-bg: #eafbfc;
+  --color-medical-bg-soft: #d9f6f8;
+
+  --color-medical-muted: #64748b;
+  --color-medical-border: #cdecef;
+}
